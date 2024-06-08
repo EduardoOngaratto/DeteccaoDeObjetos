@@ -1,10 +1,18 @@
-# 📁 Detecção De Objetos Em Python.
+# 📁 Detecção de Objetos em Python
 
-## Projeto feito para o segundo semestre da faculdade de Ciencias Da Computação Uri - Erechim.
+Projeto para o segundo semestre do curso de Ciência da Computação - URI Erechim
 
-# 🛠️ Abrir e rodar o projeto.
+## Instruções para Abrir e Rodar o Projeto
 
-* Precisaremos Instalar o python e o OpenCV em nossa maquina</br>
-* Precisaremos de uma Ide compativel com a linguagem Python - Utilizamos Sublime</br>
-* Precisamos Baixar nosso software para treinamento de imagens "Cascade Trainger GUI"</br>
-* Link: https://amin-ahmadi.com/cascade-trainer-gui/</br>
+### 1. Instalar Python e OpenCV
+
+- Certifique-se de que o Python está instalado em sua máquina. Você pode baixá-lo em [python.org](https://www.python.org/).
+- Para instalar o OpenCV, abra o terminal ou prompt de comando e execute:
+  ```bash
+  pip install opencv-python
+
+### 2. Baixar o software "Cascade Trainer GUI" para treinamento de imagens
+
+- O software "Cascade Trainer GUI" é necessário para o treinamento de imagens. Você pode baixá-lo a partir do seguinte link: [amin-ahmadi.com](https://amin-ahmadi.com/cascade-trainer-gui/)
+
+
